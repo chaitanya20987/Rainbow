@@ -1,11 +1,11 @@
 Colors of Rainbow
 
-Violet
-Indigo
-Blue
-Green
-Yellow
-Orange
-Red
+V - Violet
+I - Indigo
+B - Blue
+G - Green
+Y - Yellow
+O - Orange
+R - Red
 
 -- The End --
