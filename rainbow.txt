@@ -1,4 +1,8 @@
+
+Rainbow will come if there is Sun when it is raining
+=======
 Colors of RAINBOW - IndraDhanush
+=======
 
 V - Violet
 I - Indigo
@@ -9,3 +13,4 @@ O - Orange
 R - Red
 
 -- The End --
+ 
