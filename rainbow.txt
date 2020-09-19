@@ -12,5 +12,7 @@ Y - Yellow
 O - Orange
 R - Red
 
+in Telugu, it is called HariVillu. 
+
 -- The End --
  
